@@ -38,7 +38,6 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/@fullcalendar/core/main.css",
               "node_modules/sweetalert2/src/sweetalert2.scss"
 
 
@@ -108,7 +107,6 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/@fullcalendar/core/main.css",
               "node_modules/sweetalert2/src/sweetalert2.scss"
 
 
